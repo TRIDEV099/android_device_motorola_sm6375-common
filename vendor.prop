@@ -300,7 +300,7 @@ ro.soc.manufacturer=QTI
 debug.stagefright.c2inputsurface=-1
 
 # Surfaceflinger
-debug.sf.auto_latch_unsignaled=0
+debug.sf.auto_latch_unsignaled=1
 debug.sf.enable_advanced_sf_phase_offset=0
 debug.sf.enable_gl_backpressure=false
 debug.sf.force_cpuset_system_default=1
