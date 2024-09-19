@@ -200,6 +200,7 @@ ro.frp.pst=/dev/block/bootdevice/by-name/frp
 persist.sys.fuse.passthrough.enable=true
 
 # Graphics
+debug.sf.layer_caching_active_layer_timeout_ms=1000
 ro.hardware.egl=adreno
 ro.hardware.vulkan=adreno
 ro.opengles.version=196610
