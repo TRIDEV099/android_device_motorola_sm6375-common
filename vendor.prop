@@ -140,6 +140,7 @@ vendor.qcom.bluetooth.soc=hastings
 # Camera
 camera.disable_zsl_mode=1
 
+
 # Charger
 persist.vendor.chg.pl_usbin_only=1
 persist.vendor.ctm.disallowed=1
@@ -338,3 +339,8 @@ ro.vendor.zram.swapon=true
 
 # Zygote
 zygote.critical_window.minute=10
+
+# HWUI
+debug.hwui.use_hint_manager=true
+debug.sf.enable_adpf_cpu_hint=true
+debug.hwui.target_cpu_time_percent=30
