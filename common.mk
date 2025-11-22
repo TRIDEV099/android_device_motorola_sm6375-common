@@ -164,6 +164,9 @@ PRODUCT_PACKAGES += \
     sap.conf \
     xtwifi.conf
 
+# Dolby
+$(call inherit-product, hardware/dolby/dolby.mk)
+
 # Health
 PRODUCT_PACKAGES += \
     android.hardware.health-service.qti
