@@ -1,0 +1,4 @@
+# Audio
+audio.offload.disable=false                                             audio.offload.gapless.enabled=false
+audio.offload.video=false
+media.aac_51_output_enabled=true
