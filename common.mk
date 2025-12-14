@@ -35,6 +35,7 @@ PRODUCT_PACKAGES += \
     NcmTetheringOverlay \
     SettingsProviderResCommon \
     SystemUIResCommon \
+    Launcher3ResCommon \
     TelephonyResCommon \
     TelephonyResProduct \
     WifiResCommon \
